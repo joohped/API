@@ -2,21 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "nome": "joão"
+      "nome": "joão",
       "id": 2,
-      "nome": "julia"
+      "nome": "julia",
       "id": 3,
-      "nome": "monique"
+      "nome": "monique",
       "id": 4,
-      "nome": "gabi"
+      "nome": "gabi",
       "id": 5,
-      "nome": "carol"
+      "nome": "carol",
       "id": 6,
-      "nome": "helena"
+      "nome": "helena",
       "id": 7,
-      "nome": "nicolly"
+      "nome": "nicolly",
       "id": 8,
-      "nome": "bianca"
+      "nome": "bianca",
     }
   ],
   "profile": {
