@@ -2,7 +2,9 @@
   "personagem": [
     {
      "id": 1,
-      "nome": "Gumball"
+      "nome": "Gumball",
+      "ids": 2,
+    "nomes": "Darwin"
     }
   ],
   "pasta": {
