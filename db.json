@@ -1,13 +1,12 @@
 {
-  "posts": [
+  "0": [
     {
      "id": 1,
-      "nome": joao,
-      "ides": 2,
-      "nomes2": julia
+      "nome": "Gumball",
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "1": {
+    "id": 2,
+    "nome": "Darwin"
   }
 }
