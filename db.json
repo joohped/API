@@ -4,9 +4,9 @@
      "id": 1,
       "nome": "Gumball"
     }
-  },
+  ],
   "pasta": {
-    "id": 2,
-    "nome": "Darwin"
+    "ids": 2,
+    "nomes": "Darwin"
   }
 }
