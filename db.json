@@ -3,7 +3,7 @@
     {
     "id": 1,
     "nome": "Gumball",
-      url: "https://static.wikia.nocookie.net/herois/images/2/2e/GumballSeason3.png/revision/latest?cb=20220523220753&path-prefix=pt-br",
+    uri: "https://static.wikia.nocookie.net/herois/images/2/2e/GumballSeason3.png/revision/latest?cb=20220523220753&path-prefix=pt-br",
     }
   ],
   "pasta": {
