@@ -1,9 +1,11 @@
 {
   "personagens": [
     {
+    "albumId": 1,
     "id": 1,
-    "nome": "Gumball",
-    "url": "https://i.pinimg.com/originals/59/07/37/59073714579895df2229af0b97f8823c.jpg",
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
     }
   ],
   "pasta": {
