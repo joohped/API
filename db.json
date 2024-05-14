@@ -1,7 +1,6 @@
 {
   "gumball": [
     {
-    "id": 1,
     "Nome": "Gumball Tristopher Watterson",
     "Idade": "12 anos",
     "Sexo": "Masculino",
@@ -10,7 +9,6 @@
     }
   ],
   "darwin": {
-    "id": 2,
     "Nome": "Darwin Raglan Caspian Ahab Poseidon Nicodemus Watterson III",
     "Idade": "10 anos",
     "Sexo": "Masculino",
@@ -18,7 +16,6 @@
     "Ocupação": "Estudante"
   },
   "anais": {
-    "id": 3,
     "Nome": "Anais Watterson",
     "Idade": "4 anos",
     "Sexo": "Feminino",
@@ -26,7 +23,6 @@
     "Ocupação": "Estudante"
   },
   "nicole": {
-    "id": 4,
     "Nome": "Doutora Nicole Senicourt Watterson",
     "Idade": "40 anos",
     "Sexo": "Feminino",
@@ -34,7 +30,6 @@
     "Ocupação": "Funcionária da fábrica do arco-íris"
   },
   "ricardo": {
-    "id": 5,
     "Nome": "Ricardo/Richard Buckley Watterson",
     "Idade": "40 anos",
     "Sexo": "Masculino",
@@ -42,7 +37,6 @@
     "Ocupação": "Desempregado"
   },
   "joão": {
-    "id": 6,
     "Nome": "João Banana",
     "Idade": "12 anos",
     "Sexo": "Masculino",
