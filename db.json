@@ -1,7 +1,7 @@
 {
   "personagens":[
     {"id":0, "nome": "Gumball Tristopher Watterson","idade": "12 anos", "sexo": "Masculino", "especie": "Gato", "ocupacao": "Estudante", "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fco.pinterest.com%2Fpin%2Ffoto-de-perfil--596093700694245811%2F&psig=AOvVaw0pDc6RVIpExej25LVr8dyS&ust=1716050345759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCc1uSPlYYDFQAAAAAdAAAAABAb"},
-    {"id":1, "nome": "Darwin Raglan Caspian Ahab Poseidon Nicodemus Watterson III", "idade": "10 anos", "sexo": "Masculino", "especie": "Híbrido Peixe-Dourado/Rêmora", "ocupacao": "Estudante"},
+    {"id":1, "nome": "Darwin Raglan Caspian Ahab Poseidon Nicodemus Watterson III", "idade": "10 anos", "sexo": "Masculino", "especie": "Híbrido Peixe-Dourado/Rêmora", "ocupacao": "Estudante", "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgumball.fandom.com%2Fpt-br%2Fwiki%2FDarwin_Watterson&psig=AOvVaw34l2-R5V908bjiDpVd436q&ust=1716051620419000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjd-MWUlYYDFQAAAAAdAAAAABAE"},
     {"id":2, "nome": "Anais Watterson", "idade": "4 anos", "sexo": "Feminino", "especie": "Coelho", "Ocupacao": "Estudante"},
     {"id":3, "nome": "Doutora Nicole Senicourt Watterson", "idade": "40 anos", "sexo": "Feminino", "especie": "Gato", "ocupacao": "Funcionária da fábrica do arco-íris"},
     {"id":4, "nome": "Ricardo/Richard Buckley Watterson", "idade": "40 anos", "sexo": "Masculino", "especie": "Coelho", "ocupacao": "Desempregado"}
