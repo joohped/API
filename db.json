@@ -4,6 +4,6 @@
     {"id":1, "Nome": "Darwin Raglan Caspian Ahab Poseidon Nicodemus Watterson III", "Idade": "10 anos", "Sexo": "Masculino", "Espécie": "Híbrido Peixe-Dourado/Rêmora", "Ocupação": "Estudante"},
     {"id":2, "Nome": "Anais Watterson", "Idade": "4 anos", "Sexo": "Feminino", "Espécie": "Coelho", "Ocupação": "Estudante"},
     {"id":3, "Nome": "Doutora Nicole Senicourt Watterson", "Idade": "40 anos", "Sexo": "Feminino", "Espécie": "Gato", "Ocupação": "Funcionária da fábrica do arco-íris"},
-    {"id":4, "Nome": "Ricardo/Richard Buckley Watterson", "Idade": "40 anos", "Sexo": "Masculino", "Espécie": "Coelho", "Ocupação": "Desempregado"},
+    {"id":4, "Nome": "Ricardo/Richard Buckley Watterson", "Idade": "40 anos", "Sexo": "Masculino", "Espécie": "Coelho", "Ocupação": "Desempregado"}
   ]
 }
